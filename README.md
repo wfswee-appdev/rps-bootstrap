@@ -18,6 +18,10 @@ The starting point of this project is the ending point of RPS CSS. Here is a sna
 
 I slightly re-organized the CSS afterwards; you can see the differences here, in this [git diff](https://github.com/demostudent10-appdev/rps-css/commit/5b527ed0d419c0d7c1a762bd287e36a9948ea4e4).
 
+## Font Awesome
+
+Search for [Font Awesome icons here](fontawesome.com/v5.0.13/icons?d=gallery&m=free).
+
 ## Asset links for every HTML doc
 
 I place these in the `<head>` of _almost_ every HTML document I write:
@@ -27,7 +31,7 @@ I place these in the `<head>` of _almost_ every HTML document I write:
 <meta charset="utf-8">
 
 <!-- Connect Font Awesome CSS -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.2/css/all.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
 <!-- Connect Bootstrap CSS -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
