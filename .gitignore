@@ -49,3 +49,4 @@ package-lock.json
 core.chrome*
 
 !/vendor*
+.theia/.ltici_apitoken.yml
